@@ -18,10 +18,10 @@
 A web-based platform where employers can assign tasks and employees can track and complete them.
 
 ## Tech Stack
-React
-Vite
-Tailwind CSS
-Supabase
+-React
+-Vite
+-Tailwind CSS
+-Supabase
 
 ## Features
 - Employee dashboard
