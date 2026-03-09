@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sahil
 
-<!--
-**Sahilrai2002d/Sahilrai2002d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at GGSIPU  
+💻 Interested in Software Engineering, Web Development, and Machine Learning  
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+ - **Employee Task Management System**
+  - Web application for managing and tracking employee tasks.
+  - Built using HTML, CSS, JavaScript, PHP, and MySQL.
+
+## Currently Learning
+- Machine Learning
+- Backend Development
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/sahil-kumar-rai
