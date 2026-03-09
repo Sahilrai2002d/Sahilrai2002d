@@ -13,10 +13,24 @@
 - MySQL
 
 ## Projects
- - **Employee Task Management System**
-  - Web application for managing and tracking employee tasks.
-  - Built using React, Vite, Tailwind CSS, and Supabase.
+ # Employee Task Management System
 
+A web-based platform where employers can assign tasks and employees can track and complete them.
+
+## Tech Stack
+React
+Vite
+Tailwind CSS
+Supabase
+
+## Features
+- Employee dashboard
+- Employer dashboard
+- Task assignment
+- Task tracking
+- Notifications
+- Authentication
+  
 ## Currently Learning
 - Machine Learning
 - Backend Development
