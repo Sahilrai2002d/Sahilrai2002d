@@ -15,7 +15,7 @@
 ## Projects
  - **Employee Task Management System**
   - Web application for managing and tracking employee tasks.
-  - Built using HTML, CSS, JavaScript, PHP, and MySQL.
+  - Built using React, Vite, Tailwind CSS, and Supabase.
 
 ## Currently Learning
 - Machine Learning
